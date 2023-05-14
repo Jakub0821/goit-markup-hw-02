@@ -1,1 +1,1 @@
-<https://jakub0821.github.io/goit-markup-hw-01/>
+https://jakub0821.github.io/goit-markup-hw-02/
